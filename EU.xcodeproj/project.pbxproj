@@ -14,6 +14,7 @@
 		3ED497EC23E48D8C0088E170 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ED497EA23E48D8C0088E170 /* Main.storyboard */; };
 		3ED497EE23E48D8E0088E170 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ED497ED23E48D8E0088E170 /* Assets.xcassets */; };
 		3ED497F123E48D8E0088E170 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ED497EF23E48D8E0088E170 /* LaunchScreen.storyboard */; };
+		3ED7A73923EB7DA700CB570A /* Nation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED7A73823EB7DA700CB570A /* Nation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3ED497ED23E48D8E0088E170 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ED497F023E48D8E0088E170 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3ED497F223E48D8E0088E170 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3ED7A73823EB7DA700CB570A /* Nation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				3ED497E423E48D8C0088E170 /* AppDelegate.swift */,
 				3ED497E623E48D8C0088E170 /* SceneDelegate.swift */,
+				3ED7A73823EB7DA700CB570A /* Nation.swift */,
 				3ED497E823E48D8C0088E170 /* ViewController.swift */,
 				3EA3AD4A23E7780A001F33C2 /* DetailTableViewController.swift */,
 				3ED497EA23E48D8C0088E170 /* Main.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				3EA3AD4B23E7780A001F33C2 /* DetailTableViewController.swift in Sources */,
 				3ED497E923E48D8C0088E170 /* ViewController.swift in Sources */,
+				3ED7A73923EB7DA700CB570A /* Nation.swift in Sources */,
 				3ED497E523E48D8C0088E170 /* AppDelegate.swift in Sources */,
 				3ED497E723E48D8C0088E170 /* SceneDelegate.swift in Sources */,
 			);
