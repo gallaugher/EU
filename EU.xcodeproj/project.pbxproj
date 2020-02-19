@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E42AC7723FDA252007CB567 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E42AC7623FDA252007CB567 /* ListTableViewCell.swift */; };
 		3EA3AD4B23E7780A001F33C2 /* DetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA3AD4A23E7780A001F33C2 /* DetailTableViewController.swift */; };
 		3ED497E523E48D8C0088E170 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED497E423E48D8C0088E170 /* AppDelegate.swift */; };
 		3ED497E723E48D8C0088E170 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED497E623E48D8C0088E170 /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E42AC7623FDA252007CB567 /* ListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
 		3EA3AD4A23E7780A001F33C2 /* DetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewController.swift; sourceTree = "<group>"; };
 		3ED497E123E48D8C0088E170 /* EU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EU.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ED497E423E48D8C0088E170 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				3ED7A73823EB7DA700CB570A /* Nation.swift */,
 				3ED497E823E48D8C0088E170 /* ViewController.swift */,
 				3EA3AD4A23E7780A001F33C2 /* DetailTableViewController.swift */,
+				3E42AC7623FDA252007CB567 /* ListTableViewCell.swift */,
 				3ED497EA23E48D8C0088E170 /* Main.storyboard */,
 				3ED497ED23E48D8E0088E170 /* Assets.xcassets */,
 				3ED497EF23E48D8E0088E170 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				3ED7A73923EB7DA700CB570A /* Nation.swift in Sources */,
 				3ED497E523E48D8C0088E170 /* AppDelegate.swift in Sources */,
 				3ED497E723E48D8C0088E170 /* SceneDelegate.swift in Sources */,
+				3E42AC7723FDA252007CB567 /* ListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
